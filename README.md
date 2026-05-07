@@ -58,6 +58,16 @@ Currently building **ForceHub** — a self-hosted local AI developer dashboard p
 
 ---
 
+## Active Work
+
+- Building and hardening **ForceHub**
+- Improving local AI developer workflows
+- Creating practical Linux and networking labs
+- Building reusable PowerShell and Python automation scripts
+- Documenting IT troubleshooting and security notes
+
+---
+
 ## Goal
 
 To build practical IT, automation, and local AI tools that solve real infrastructure and troubleshooting problems.
