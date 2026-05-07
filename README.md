@@ -2,6 +2,9 @@
 
 **IT Infrastructure • Linux • Networking • Automation • Security • Local AI Tools**
 
+[![X](https://img.shields.io/badge/X-@ForcelineHD-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ForcelineHD)
+[![GitHub](https://img.shields.io/badge/GitHub-ForcelineHD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ForcelineHD)
+
 I build practical tools, labs, and documentation around Windows, Linux, networking, automation, cybersecurity, local AI workflows, and system optimization.
 
 Currently building **ForceHub** — a self-hosted local AI developer dashboard powered by FastAPI, Ollama, and GitHub workflows.
@@ -58,7 +61,6 @@ Currently building **ForceHub** — a self-hosted local AI developer dashboard p
 
 ---
 
-
 ## 💻 My Favorite Tools and Technologies
 
 ### Operating Systems & Virtualization
@@ -75,7 +77,7 @@ Currently building **ForceHub** — a self-hosted local AI developer dashboard p
 
 ### Networking, Security & Infrastructure
 
-![Networking](https://img.shields.io/badge/TCP%2FIP-0A66C2?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0A66C2?style=for-the-badge)
 ![DNS](https://img.shields.io/badge/DNS-1E90FF?style=for-the-badge)
 ![VPN](https://img.shields.io/badge/VPN-2E8B57?style=for-the-badge)
 ![SSH](https://img.shields.io/badge/SSH-111111?style=for-the-badge)
@@ -86,6 +88,8 @@ Currently building **ForceHub** — a self-hosted local AI developer dashboard p
 ### Databases, Tools & Workflow
 
 [![Tools](https://skillicons.dev/icons?i=sqlite,mysql,postgres,docker,postman,github,vscode&theme=dark)](https://skillicons.dev)
+
+---
 
 ## Active Work
 
