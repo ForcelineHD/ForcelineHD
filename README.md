@@ -58,6 +58,35 @@ Currently building **ForceHub** — a self-hosted local AI developer dashboard p
 
 ---
 
+
+## 💻 My Favorite Tools and Technologies
+
+### Operating Systems & Virtualization
+
+[![OS and Virtualization](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,vmware&theme=dark)](https://skillicons.dev)
+
+### Programming, Scripting & Automation
+
+[![Programming and Automation](https://skillicons.dev/icons?i=python,powershell,bash,cpp,js,html,css,md&theme=dark)](https://skillicons.dev)
+
+### Backend, APIs & Local AI
+
+[![Backend and AI](https://skillicons.dev/icons?i=fastapi,flask,nodejs,git,github,githubactions,vscode&theme=dark)](https://skillicons.dev)
+
+### Networking, Security & Infrastructure
+
+![Networking](https://img.shields.io/badge/TCP%2FIP-0A66C2?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-1E90FF?style=for-the-badge)
+![VPN](https://img.shields.io/badge/VPN-2E8B57?style=for-the-badge)
+![SSH](https://img.shields.io/badge/SSH-111111?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-CC0000?style=for-the-badge)
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
+
+### Databases, Tools & Workflow
+
+[![Tools](https://skillicons.dev/icons?i=sqlite,mysql,postgres,docker,postman,github,vscode&theme=dark)](https://skillicons.dev)
+
 ## Active Work
 
 - Building and hardening **ForceHub**
