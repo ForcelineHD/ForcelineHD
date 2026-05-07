@@ -1,19 +1,48 @@
 # Force / ForcelineHD
 
-**IT Infrastructure • Linux • Networking • Automation • Security • Performance Tuning**
+**IT Infrastructure • Linux • Networking • Automation • Security • Local AI Tools**
 
-I build and document practical tools, labs, and notes around Windows, Linux, networking, automation, cybersecurity, and system optimization.
+I build practical tools, labs, and documentation around Windows, Linux, networking, automation, cybersecurity, local AI workflows, and system optimization.
+
+Currently building **ForceHub** — a self-hosted local AI developer dashboard powered by FastAPI, Ollama, and GitHub workflows.
 
 ---
 
 ## Focus Areas
 
-- Windows and Linux system optimization
-- PowerShell and Python automation
+- Windows and Linux infrastructure
+- PowerShell, Python, and Bash automation
 - Networking, VPN, DNS, SSH, and remote access labs
-- Cybersecurity fundamentals and practical labs
-- GitHub project organization and documentation
-- Gaming and performance-tuning experiments
+- Cybersecurity fundamentals and practical hardening
+- FastAPI dashboards and local AI tooling
+- GitHub project organization and technical documentation
+- Performance tuning and system diagnostics
+
+---
+
+## Main Project
+
+| Project | Status | Description |
+|---|---|---|
+| **ForceHub** | Active | Local AI developer dashboard using FastAPI + Ollama |
+| Windows System Audit | Planned | PowerShell scripts for system checks and reports |
+| Linux VM Lab | Active | Ubuntu/Kali/VMware/WSL setup notes |
+| Network Labs | Planned | DNS, VPN, SSH, router access, and troubleshooting labs |
+| Security Notes | Planned | Practical cybersecurity notes and hardening checklists |
+
+---
+
+## Current Stack
+
+| Area | Tools |
+|---|---|
+| OS | Windows 11, Ubuntu, Kali |
+| Automation | PowerShell, Python, Bash |
+| Backend | FastAPI |
+| AI | Ollama, local LLMs, AI-assisted development |
+| Dev | Git, GitHub, VS Code |
+| Virtualization | VMware Workstation, WSL |
+| Networking | TCP/IP, DNS, VPN, SSH, LAN troubleshooting |
 
 ---
 
@@ -24,44 +53,11 @@ I build and document practical tools, labs, and notes around Windows, Linux, net
 | Linux | Ubuntu, Kali, VMware, WSL |
 | Networking | VPN, SSH, DNS, router access, remote connection |
 | Automation | PowerShell, Python, Bash |
-| Security | Cybersecurity basics, privacy, endpoint security |
-| Development | Git, GitHub, local dashboards, documentation |
+| Security | Cybersecurity basics, endpoint security, secure coding |
+| Development | GitHub workflows, local dashboards, documentation |
 
 ---
 
-## Projects
+## Goal
 
-| Project | Status | Description |
-|---|---:|---|
-| **ForceHub** | Building | Local Git repository dashboard |
-| **Windows System Audit** | Planned | PowerShell scripts for system checks and reports |
-| **Linux VM Lab** | Planned | Ubuntu/Kali/VMware/WSL setup notes |
-| **Networking Lab** | Planned | VPN, DNS, SSH, and remote access testing |
-| **Cybersecurity Notes** | Planned | Learning notes and practical security labs |
-
----
-
-## Tools & Technologies
-
-```text
-Windows • Linux • Ubuntu • Kali • VMware • WSL
-PowerShell • Python • Bash • Git • GitHub
-Networking • VPN • DNS • SSH • Security • Automation
-```
-
----
-
-## GitHub Goals
-
-- Publish clean public repositories
-- Write useful README files
-- Document repeatable setup steps
-- Build small practical tools
-- Keep projects organized and easy to understand
-
----
-
-## Contact
-
-- GitHub: `ForcelineHD`
-- X / Twitter: `@ForcelineHD`
+To build practical IT, automation, and local AI tools that solve real infrastructure and troubleshooting problems.
