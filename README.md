@@ -41,7 +41,7 @@ My focus is on real systems work: diagnosing issues, building repeatable workflo
 
 | Project | Status | Description |
 |---|---|---|
-| **ForceHub** | Active local build | Local AI and IT workflow dashboard built around FastAPI, Ollama, and GitHub workflows. The project focuses on local-first tooling, developer workflow organization, infrastructure notes, and practical automation without exposing private environment details. |
+| **ForceHub** | Public | Local-first IT / automation / local-AI dashboard with FastAPI backend, Go agent, native monitor tooling, Rust security scanner, CI, and public-safe documentation. |
 
 ---
 
@@ -51,7 +51,6 @@ These are planned public portfolio repositories. They will be published only aft
 
 | Planned Repository | Purpose | Status |
 |---|---|---|
-| **forcehub** | Public-safe version of the local AI / IT dashboard with documentation, example configuration, and sanitized workflows. | Planned public release |
 | **windows-system-audit** | PowerShell-based Windows inventory, health checks, service review, update posture, and report generation. | Planned |
 | **linux-vm-lab** | Ubuntu, Kali, WSL, and VMware lab setup notes with repeatable commands and troubleshooting documentation. | Planned |
 | **network-labs** | DNS, SSH, VPN, routing, firewall basics, and reproducible networking troubleshooting labs. | Planned |
@@ -76,7 +75,7 @@ These are planned public portfolio repositories. They will be published only aft
 
 ## Current Work
 
-- Building and refining **ForceHub** as a local AI / IT dashboard.
+- Building and refining **ForceHub** as a public local-first IT / automation / local-AI dashboard.
 - Organizing public documentation around Linux, networking, and infrastructure labs.
 - Creating reusable PowerShell, Python, Bash, and Go automation examples.
 - Turning troubleshooting notes into structured guides and portfolio repositories.
