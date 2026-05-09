@@ -1,106 +1,115 @@
 # Force / ForcelineHD
 
-**IT Infrastructure • Linux • Networking • Automation • Security • Local AI Tools**
+**IT Infrastructure | Linux | Networking | Automation | Security Fundamentals | Local AI Tooling**
 
-[![X](https://img.shields.io/badge/X-@ForcelineHD-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ForcelineHD)
-[![GitHub](https://img.shields.io/badge/GitHub-ForcelineHD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ForcelineHD)
+[![GitHub](https://img.shields.io/badge/GitHub-ForcelineHD-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ForcelineHD)
+[![X](https://img.shields.io/badge/X-@ForcelineHD-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ForcelineHD)
 
-I build practical tools, labs, and documentation around Windows, Linux, networking, automation, cybersecurity, local AI workflows, and system optimization.
+I build practical tools, labs, and documentation for Windows and Linux systems, networking, automation, troubleshooting, cybersecurity fundamentals, and local AI developer workflows.
 
-Currently building **ForceHub** — a self-hosted local AI developer dashboard powered by FastAPI, Ollama, and GitHub workflows.
-
----
-
-## Focus Areas
-
-- Windows and Linux infrastructure
-- PowerShell, Python, and Bash automation
-- Networking, VPN, DNS, SSH, and remote access labs
-- Cybersecurity fundamentals and practical hardening
-- FastAPI dashboards and local AI tooling
-- GitHub project organization and technical documentation
-- Performance tuning and system diagnostics
+My focus is on real systems work: diagnosing issues, building repeatable workflows, documenting what works, and turning lab experience into clean public portfolio projects.
 
 ---
 
-## Main Project
+## Technical Summary
+
+| Area | Practical Focus |
+|---|---|
+| IT infrastructure | Windows and Linux support, system diagnostics, lab setup, documentation |
+| Linux and virtualization | Ubuntu, Kali Linux, WSL, VMware Workstation, isolated test environments |
+| Networking | TCP/IP, DNS, SSH, VPN concepts, LAN troubleshooting, remote access basics |
+| Automation | PowerShell, Python, Bash, and Go for repeatable administrative workflows |
+| Local AI tooling | FastAPI, Ollama, local LLM workflows, developer dashboards, GitHub workflows |
+| Security fundamentals | Baseline hardening, safe lab testing, endpoint hygiene, secure handling of configs |
+
+---
+
+## Core Focus Areas
+
+- Practical Windows and Linux administration
+- Infrastructure troubleshooting and technical documentation
+- PowerShell, Python, Bash, and Go automation
+- VMware, WSL, and local lab environments
+- Networking labs for DNS, SSH, VPN, routing, and remote access workflows
+- FastAPI and Ollama-based local tooling
+- GitHub workflow organization and clean public documentation
+- Cybersecurity fundamentals, hardening notes, and safe lab practices
+
+---
+
+## Active Projects
 
 | Project | Status | Description |
 |---|---|---|
-| **ForceHub** | Active | Local AI developer dashboard using FastAPI + Ollama |
-| Windows System Audit | Planned | PowerShell scripts for system checks and reports |
-| Linux VM Lab | Active | Ubuntu/Kali/VMware/WSL setup notes |
-| Network Labs | Planned | DNS, VPN, SSH, router access, and troubleshooting labs |
-| Security Notes | Planned | Practical cybersecurity notes and hardening checklists |
+| **ForceHub** | Active local build | Local AI and IT workflow dashboard built around FastAPI, Ollama, and GitHub workflows. The project focuses on local-first tooling, developer workflow organization, infrastructure notes, and practical automation without exposing private environment details. |
 
 ---
 
-## Current Stack
+## Portfolio Roadmap
 
-| Area | Tools |
+These are planned public portfolio repositories. They will be published only after the content is cleaned, documented, and safe for public release.
+
+| Planned Repository | Purpose | Status |
+|---|---|---|
+| **forcehub** | Public-safe version of the local AI / IT dashboard with documentation, example configuration, and sanitized workflows. | Planned public release |
+| **windows-system-audit** | PowerShell-based Windows inventory, health checks, service review, update posture, and report generation. | Planned |
+| **linux-vm-lab** | Ubuntu, Kali, WSL, and VMware lab setup notes with repeatable commands and troubleshooting documentation. | Planned |
+| **network-labs** | DNS, SSH, VPN, routing, firewall basics, and reproducible networking troubleshooting labs. | Planned |
+| **security-hardening-notes** | Practical Windows and Linux hardening checklists, safe lab notes, and defensive security fundamentals. | Planned |
+
+---
+
+## Tech Stack
+
+| Category | Tools and Technologies |
 |---|---|
-| OS | Windows 11, Ubuntu, Kali |
-| Automation | PowerShell, Python, Bash |
-| Backend | FastAPI |
-| AI | Ollama, local LLMs, AI-assisted development |
-| Dev | Git, GitHub, VS Code |
-| Virtualization | VMware Workstation, WSL |
-| Networking | TCP/IP, DNS, VPN, SSH, LAN troubleshooting |
+| Operating systems | Windows 11, Ubuntu, Kali Linux, WSL |
+| Virtualization and labs | VMware Workstation, local VMs, isolated lab environments |
+| Automation | PowerShell, Python, Bash, Go |
+| Backend and APIs | FastAPI, REST APIs, local service dashboards |
+| Local AI tooling | Ollama, local LLM workflows, AI-assisted developer tooling |
+| Dev workflow | Git, GitHub, GitHub Actions, VS Code, Markdown |
+| Networking | TCP/IP, DNS, SSH, VPN, LAN troubleshooting |
+| Security | System hardening basics, endpoint hygiene, safe testing, configuration review |
 
 ---
 
-## Current Learning Path
+## Current Work
 
-| Area | Current Focus |
+- Building and refining **ForceHub** as a local AI / IT dashboard.
+- Organizing public documentation around Linux, networking, and infrastructure labs.
+- Creating reusable PowerShell, Python, Bash, and Go automation examples.
+- Turning troubleshooting notes into structured guides and portfolio repositories.
+- Improving GitHub project structure, README quality, and technical writing.
+
+---
+
+## Learning and Building Roadmap
+
+| Track | Current Direction |
 |---|---|
-| Linux | Ubuntu, Kali, VMware, WSL |
-| Networking | VPN, SSH, DNS, router access, remote connection |
-| Automation | PowerShell, Python, Bash |
-| Security | Cybersecurity basics, endpoint security, secure coding |
-| Development | GitHub workflows, local dashboards, documentation |
+| Windows administration | Audit scripts, support workflows, troubleshooting reports |
+| Linux systems | Ubuntu and Kali VM labs, shell workflows, service diagnostics |
+| Networking | DNS, SSH, VPN, routing basics, remote access troubleshooting |
+| Automation | Practical scripts for repeatable checks, reporting, and lab setup |
+| Security fundamentals | Hardening checklists, safe lab exercises, secure configuration habits |
+| Local AI tooling | FastAPI dashboards, Ollama workflows, GitHub-assisted development tools |
 
 ---
 
-## 💻 My Favorite Tools and Technologies
+## Security & Privacy
 
-### Operating Systems & Virtualization
-
-[![OS and Virtualization](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,vmware&theme=dark)](https://skillicons.dev)
-
-### Programming, Scripting & Automation
-
-[![Programming and Automation](https://skillicons.dev/icons?i=python,powershell,bash,cpp,js,html,css,md&theme=dark)](https://skillicons.dev)
-
-### Backend, APIs & Local AI
-
-[![Backend and AI](https://skillicons.dev/icons?i=fastapi,flask,nodejs,git,github,githubactions,vscode&theme=dark)](https://skillicons.dev)
-
-### Networking, Security & Infrastructure
-
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0A66C2?style=for-the-badge)
-![DNS](https://img.shields.io/badge/DNS-1E90FF?style=for-the-badge)
-![VPN](https://img.shields.io/badge/VPN-2E8B57?style=for-the-badge)
-![SSH](https://img.shields.io/badge/SSH-111111?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-CC0000?style=for-the-badge)
-![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
-
-### Databases, Tools & Workflow
-
-[![Tools](https://skillicons.dev/icons?i=sqlite,mysql,postgres,docker,postman,github,vscode&theme=dark)](https://skillicons.dev)
+Public repositories will avoid secrets, tokens, private IP addresses, `.env` values, raw logs, runtime data, sensitive screenshots, and private infrastructure details. Any examples will use sanitized configuration, placeholder values, and public-safe documentation.
 
 ---
 
-## Active Work
+## Contact
 
-- Building and hardening **ForceHub**
-- Improving local AI developer workflows
-- Creating practical Linux and networking labs
-- Building reusable PowerShell and Python automation scripts
-- Documenting IT troubleshooting and security notes
+| Platform | Link |
+|---|---|
+| GitHub | [github.com/ForcelineHD](https://github.com/ForcelineHD) |
+| X | [x.com/ForcelineHD](https://x.com/ForcelineHD) |
 
 ---
 
-## Goal
-
-To build practical IT, automation, and local AI tools that solve real infrastructure and troubleshooting problems.
+I use GitHub as a technical portfolio for practical infrastructure work, automation, local tooling, and documented systems learning.
