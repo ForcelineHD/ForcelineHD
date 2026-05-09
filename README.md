@@ -42,6 +42,7 @@ My focus is on real systems work: diagnosing issues, building repeatable workflo
 | Project | Status | Description |
 |---|---|---|
 | **ForceHub** | Public | Local-first IT / automation / local-AI dashboard with FastAPI backend, Go agent, native monitor tooling, Rust security scanner, CI, and public-safe documentation. |
+| **windows-system-audit** | Public | PowerShell-based Windows audit toolkit for IT support, diagnostics, inventory, services, updates, security posture, and exportable local reports. |
 
 ---
 
@@ -51,7 +52,6 @@ These are planned public portfolio repositories. They will be published only aft
 
 | Planned Repository | Purpose | Status |
 |---|---|---|
-| **windows-system-audit** | PowerShell-based Windows inventory, health checks, service review, update posture, and report generation. | Planned |
 | **linux-vm-lab** | Ubuntu, Kali, WSL, and VMware lab setup notes with repeatable commands and troubleshooting documentation. | Planned |
 | **network-labs** | DNS, SSH, VPN, routing, firewall basics, and reproducible networking troubleshooting labs. | Planned |
 | **security-hardening-notes** | Practical Windows and Linux hardening checklists, safe lab notes, and defensive security fundamentals. | Planned |
