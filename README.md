@@ -2,8 +2,7 @@
 
 **IT Infrastructure | Linux | Networking | Automation | Security Fundamentals | Local AI Tooling**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ForcelineHD-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ForcelineHD)
-[![X](https://img.shields.io/badge/X-@ForcelineHD-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ForcelineHD)
+[![GitHub](https://img.shields.io/badge/GitHub-ForcelineHD-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ForcelineHD) · [![X](https://img.shields.io/badge/X-@ForcelineHD-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ForcelineHD)
 
 I build practical tools, labs, and documentation for Windows and Linux systems, networking, automation, troubleshooting, cybersecurity fundamentals, and local AI developer workflows.
 
